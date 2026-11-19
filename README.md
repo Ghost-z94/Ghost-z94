@@ -19,7 +19,7 @@ Unity  /  C#  /  Blender  /  Adobe Photoshop  /  Git &amp; GitHub·
 --- 
 ### 📬 Contacto y Enlaces 
 * 🌐 Portafolio:(https://ghost-z94.github.io/Portafolio.github.io/) 
-* 💼 LinkedIn:[Tu Perfil de LinkedIn]
+* 💼 LinkedIn:www.linkedin.com/in/bernardo-urrutia-ab4488328
 * 📧 Correo: brebolledo437@gmail.com
 <!--
 **Ghost-z94/Ghost-z94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
