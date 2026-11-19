@@ -14,7 +14,7 @@ GitHub Pages\Mi sitio web personal con proyectos y demostraciones
 --- 
 
 ### 🛠️ Herramientas
-Unity/C#/Blender/Adobe Photoshop/Inglés·
+Unity  /  C#  /  Blender  /  Adobe Photoshop·
 
 --- 
 ### 📬 Contacto y Enlaces 
