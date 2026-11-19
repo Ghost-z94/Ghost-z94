@@ -1,21 +1,22 @@
-\# ¡Hola! Soy Bernardo Urrutia 👋 Estudiante de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales en la Universidad Bernardo O'Higgins (UBO). Desarrollo videojuegos y experiencias inmersivas en Unity y C#.
+¡Hola! Soy Bernardo Urrutia 👋 Estudiante de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales en la Universidad Bernardo O'Higgins (UBO). Desarrollo videojuegos y experiencias inmersivas en Unity y C#.
 
 --- ### 🚀 Proyectos Destacados 
 🎮 [Nombre de tu Proyecto 1]([suspicious link removed])·
-*Unity / OpenXR\* \*Simulador o proyecto VR principal (descripción breve de una línea).
+Unity /C#\Simulador o proyecto VR principal (descripción breve de una línea).
 🕹️ [Nombre de tu Proyecto 2]([suspicious link removed]).
-*Unity / C#\* \*Juego o prototipo jugable desde el navegador (WebGL).
+*Unity / C#\Juego o prototipo jugable desde el navegador (WebGL).
 🌐 [Portafolio Web](https://ghost-z94.github.io/Portafolio.github.io/)
-GitHub Pages\* \*Mi sitio web personal con proyectos y demostraciones.\* 
+GitHub Pages\Mi sitio web personal con proyectos y demostraciones
 --- 
 
 ### 🛠️ Herramientas
-\`Unity\` · \`C#\` · \`OpenXR\` · \`Blender\` · \`Git &amp; GitHub\` 
+\`Unity\` · \`C#\` · \`Blender\` ·`
+
 --- 
 ### 📬 Contacto y Enlaces 
-\* 🌐 \*\*Portafolio:\*\* [ghost-z94.github.io/Portafolio.github.io](https://ghost-z94.github.io/Portafolio.github.io/) 
-\* 💼 \*\*LinkedIn:\*\* [Tu Perfil de LinkedIn]([suspicious link removed]) 
-\* 📧 \*\*Correo:\*\* tu-correo@ejemplo.com
+* 🌐 Portafolio:(https://ghost-z94.github.io/Portafolio.github.io/) 
+* 💼 LinkedIn:[Tu Perfil de LinkedIn]
+* 📧 Correo: brebolledo437@gmail.com
 <!--
 **Ghost-z94/Ghost-z94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
