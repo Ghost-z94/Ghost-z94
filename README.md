@@ -1,12 +1,14 @@
 ¡Hola! Soy Bernardo Urrutia 👋 Estudiante de Ingeniería en Realidad Virtual y Diseño de Juegos Digitales en la Universidad Bernardo O'Higgins (UBO). Desarrollo videojuegos y experiencias inmersivas en Unity y C#.
 
---- ### 🚀 Proyectos Destacados 
+--- 
+### 🚀 Proyectos Destacados 
 🎮 [Nombre de tu Proyecto 1]([suspicious link removed])·
 Unity /C#\Simulador o proyecto VR principal (descripción breve de una línea).
 🕹️ [Nombre de tu Proyecto 2]([suspicious link removed]).
 *Unity / C#\Juego o prototipo jugable desde el navegador (WebGL).
 🌐 [Portafolio Web](https://ghost-z94.github.io/Portafolio.github.io/)
 GitHub Pages\Mi sitio web personal con proyectos y demostraciones
+
 --- 
 
 ### 🛠️ Herramientas
